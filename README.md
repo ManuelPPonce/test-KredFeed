@@ -1,3 +1,11 @@
+# Por que decidi hacer de esta manera el codigo
+
+Este proyecto decidi dividirlo en varios componentes los cuales algunos puedan ser reutilizables como por el ejemplo el domicilio 
+ya que se iba a utilizar dos veces decidi hacerlo en un componente aparte el cual pueda ser reutilizado en el codigo de una manera rapido e 
+eficaz y facil de entender , decidi divirlo en tres partes ya que poner toda la informacion dentro de una plantilla podria hacer dificil al usuario al
+momento de leerlo.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
